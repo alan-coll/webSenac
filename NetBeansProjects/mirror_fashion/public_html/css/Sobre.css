@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 17 de ago. de 2023, 19:32:40
+    Author     : alan.ssantos8
+*/
+body {
+color:#33333;
+    
+font-family: "Arial", "Helvetica", "sansserif",verdana;
+background-color: #138496;
+}
+
+h2{
+    margin-top: 30px;
+    border-bottom:10px; 
+}
+.imagCentro{
+    border-radius: 50px 50px 50px 50px;
+    border-bottom: 20px solid rgb(50, 253, 254); 
+}
+
+.imagCentro2{
+   border-bottom: 20px solid rgb(50, 253, 254); 
+    border-radius: 50px 50px 50px 50px;
+}
+
+figure{
+   border: 1px black; 
+    text-align: center;
+    padding: 15px;
+    margin:30px
+}
+figcaption{
+    font-style: italic;
+    margin-top: 10px
+}
+
+Desenvpor{
+    text-align: center;
+    
+}
+
+
+
