@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 24 de ago. de 2023, 20:04:16
+    Author     : alan.ssantos8
+*/
+.sacola{
+    background-image: url("../img/sacola.png");
+    background-repeat:no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px
+}
+.menu-opc ul{
+    font-size: 15px;
+    
+}
+.menu-opc a{
+    color:#003366;
+}
+body{
+    color: #007bff;
+    font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+   
+}

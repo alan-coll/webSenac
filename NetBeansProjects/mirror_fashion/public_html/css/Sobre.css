@@ -18,13 +18,13 @@ h2{
     border-bottom:10px; 
 }
 .imagCentro{
-    border-radius: 50px 50px 50px 50px;
+    border-radius: 15px 15px 15px 15px;
     border-bottom: 20px solid rgb(50, 253, 254); 
 }
 
 .imagCentro2{
    border-bottom: 20px solid rgb(50, 253, 254); 
-    border-radius: 50px 50px 50px 50px;
+    border-radius: 15px 15px 15px 15px;
 }
 
 figure{
@@ -41,6 +41,10 @@ figcaption{
 Desenvpor{
     text-align: center;
     
+}
+
+.titulo{
+    text-align:center; 
 }
 
 
